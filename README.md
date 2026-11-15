@@ -3,6 +3,8 @@
 64 種中文文字動態（kinetic typography）的即時展示頁，加上一支把它們輸出成 MP4 的腳本。
 每一式都附一則可以直接貼給 AI 的指令，也附已經輸出好的 1920×1080 影片。
 
+**線上展示：<https://pound0423.github.io/claude-animated-text/>**（不用下載，打開就能換字、看 64 式動態、複製指令）
+
 ![登場與流動](docs/preview-1.jpg)
 ![切換與強調](docs/preview-2.jpg)
 ![空間與歌詞 MV](docs/preview-3.jpg)
